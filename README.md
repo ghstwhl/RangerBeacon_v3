@@ -21,6 +21,10 @@ Designed for use with Cool Neon Gamma-Corrected APA102 strip, and controlled by 
 - Charge ports are highlighted in red, and are only used to re-initialize the charge controller.  Charging of batteries should be done in the dedicated charger.
 - Power button is highlighted in green.
 
+## Arduino library requirements:
+- [APA102](https://github.com/pololu/apa102-arduino)
+- [EEPROM](https://github.com/Chris--A/EEPROM)
+
 
 ## Design/Construction notes:
 
